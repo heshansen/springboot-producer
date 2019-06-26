@@ -17,7 +17,7 @@ public class MessageProducerTest {
 
     @Test
     public void sendMessageTest(){
-        messageProducer.sendMessage(new Employee("3306", "kangswx11", 28));
+        messageProducer.sendMessage(new Employee("3306", "kangswx", 25));
     }
 
 }
